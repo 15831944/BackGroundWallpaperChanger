@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundWallpaperChanger", "BGWC\BackGroundWallpaperChanger.csproj", "{48D9C552-7C52-4687-9AB8-AE9225AC240D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundWallpaperChangerSetting", "bgwcs\BackGroundWallpaperChangerSetting.csproj", "{84E1A874-7B0A-4929-BADE-112F31CCF6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundWallpaperChangerDLL", "bgwcd\BackGroundWallpaperChangerDLL.csproj", "{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalstreamCommons", "..\FinalstreamCommons\FinalstreamCommons.csproj", "{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D9C552-7C52-4687-9AB8-AE9225AC240D}.Release|x86.ActiveCfg = Release|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E1A874-7B0A-4929-BADE-112F31CCF6AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F42BD26-084B-4EFB-9BE7-E647E8AB3604}.Release|x86.ActiveCfg = Release|Any CPU
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Debug|x86.ActiveCfg = Debug|x86
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Debug|x86.Build.0 = Debug|x86
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Release|x86.ActiveCfg = Release|x86
+		{4FAEBE3D-260A-466D-B7AD-8A07CC3EBDE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
